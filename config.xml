@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.emedicare.emedicare"
+    version   = "1.0.0">
+
+<name>eMedicare Mobile</name>
+
+<description>
+A mobile app for eMedicare Health System.
+</description>
+
+<author href="http://www.e-medicare.com.tr" email="daron@darondedeoglu.com">
+Daron Dedeoğlu
+</author>
+<icon src="images/icon.png" />
+<gap:splash src="images/splash.png" />
+<access origin="*" />
+
+</widget>
