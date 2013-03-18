@@ -17,6 +17,6 @@ Daron Dedeoğlu
 <icon src="images/bbicon.jpg" gap:platform="blackberry" />
 <gap:splash src="images/splash.png" />
 <access origin="*" />
-<rim:navigation mode="focus" />
+<preference name="disable-cursor" value="true" />
 
 </widget>
